@@ -1,7 +1,9 @@
 <h1>Hi, I'm Jericho! <br/><a>Programmer</a>, <a>IT Student </a></h1>
 
 <h2>👨‍💻 Writeups:</h2>
+
   - [Active Directory Home Lab]()
+  
   - [Vulnerability Management with Nessus Home Lab]()
 
 
